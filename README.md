@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+My name is Christian Leep, and I'm focused on learning all things Tech!
+
+- 🔭 I’m currently working on building my resume and individual projects to help market myself in the workforce. 
+- 🌱 I’m currently learning Networking and Information Technology. 
+- 👯 I’m looking to collaborate on projects that can help showcase my skills.
+- 🤔 I’m looking for help with finding a career in Tech.
+
 <!--
 **ChristianLeep/ChristianLeep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
